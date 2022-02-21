@@ -1,0 +1,16 @@
+C:\Users\ericc\Desktop\Epicodus\Csharp and Dotnet\Sphinx-Riddles\obj\Debug\net5.0\SphinxRiddles.csproj.AssemblyReference.cache
+C:\Users\ericc\Desktop\Epicodus\Csharp and Dotnet\Sphinx-Riddles\obj\Debug\net5.0\SphinxRiddles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ericc\Desktop\Epicodus\Csharp and Dotnet\Sphinx-Riddles\obj\Debug\net5.0\SphinxRiddles.AssemblyInfoInputs.cache
+C:\Users\ericc\Desktop\Epicodus\Csharp and Dotnet\Sphinx-Riddles\obj\Debug\net5.0\SphinxRiddles.AssemblyInfo.cs
+C:\Users\ericc\Desktop\Epicodus\Csharp and Dotnet\Sphinx-Riddles\obj\Debug\net5.0\SphinxRiddles.csproj.CoreCompileInputs.cache
+C:\Users\ericc\Desktop\Epicodus\Csharp and Dotnet\Sphinx-Riddles\bin\Debug\net5.0\SphinxRiddles.exe
+C:\Users\ericc\Desktop\Epicodus\Csharp and Dotnet\Sphinx-Riddles\bin\Debug\net5.0\SphinxRiddles.deps.json
+C:\Users\ericc\Desktop\Epicodus\Csharp and Dotnet\Sphinx-Riddles\bin\Debug\net5.0\SphinxRiddles.runtimeconfig.json
+C:\Users\ericc\Desktop\Epicodus\Csharp and Dotnet\Sphinx-Riddles\bin\Debug\net5.0\SphinxRiddles.runtimeconfig.dev.json
+C:\Users\ericc\Desktop\Epicodus\Csharp and Dotnet\Sphinx-Riddles\bin\Debug\net5.0\SphinxRiddles.dll
+C:\Users\ericc\Desktop\Epicodus\Csharp and Dotnet\Sphinx-Riddles\bin\Debug\net5.0\ref\SphinxRiddles.dll
+C:\Users\ericc\Desktop\Epicodus\Csharp and Dotnet\Sphinx-Riddles\bin\Debug\net5.0\SphinxRiddles.pdb
+C:\Users\ericc\Desktop\Epicodus\Csharp and Dotnet\Sphinx-Riddles\obj\Debug\net5.0\SphinxRiddles.dll
+C:\Users\ericc\Desktop\Epicodus\Csharp and Dotnet\Sphinx-Riddles\obj\Debug\net5.0\ref\SphinxRiddles.dll
+C:\Users\ericc\Desktop\Epicodus\Csharp and Dotnet\Sphinx-Riddles\obj\Debug\net5.0\SphinxRiddles.pdb
+C:\Users\ericc\Desktop\Epicodus\Csharp and Dotnet\Sphinx-Riddles\obj\Debug\net5.0\SphinxRiddles.genruntimeconfig.cache
